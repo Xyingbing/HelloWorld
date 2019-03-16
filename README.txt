@@ -2,4 +2,4 @@ Study Git Start
 
 git add
 
-iss01分支
+我要更iss01分支制造合并冲突

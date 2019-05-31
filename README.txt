@@ -4,8 +4,7 @@ InitGuideManager
 InitGuideDao
 InitGuideEntity
 InitGuidePojo
-111111
-222222
+33333
 
 
 

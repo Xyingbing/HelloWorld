@@ -5,6 +5,7 @@ InitGuideDao
 InitGuideEntity
 InitGuidePojo
 111111
+222222
 
 
 
